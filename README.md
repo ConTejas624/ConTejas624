@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ConTejas624 (Tejas George)
+- 👋 Hi, I’m Tejas George
 - 👀 I’m interested in software development and machine learning
 - 🌱 I’m currently learning at Purdue University
 - 📫 Reach me at tjgeorge@purdue.edu
